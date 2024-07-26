@@ -1,1 +1,2 @@
+./stealer-test-b/subfolder/root.txt
 This should be in root folder.
