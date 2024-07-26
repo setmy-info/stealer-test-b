@@ -1,1 +1,1 @@
-b
+./stealer-test-b/b/b.txt

@@ -1,1 +1,1 @@
-d
+./stealer-test-b/subfolder/d/d.txt
